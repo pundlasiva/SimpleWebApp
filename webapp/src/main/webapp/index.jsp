@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> No offers available </h1>   
+         <h1> No offers available till Dec 31 </h1>   
 	 
 
     </section>    
